@@ -1,2 +1,2 @@
-talles de n# dejavu
+# dejavu
 sitio web HTML de Nayely Vinocunga 
